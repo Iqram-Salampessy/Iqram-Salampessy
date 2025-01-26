@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iqram-Salampessy
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning HTML,CSS,JS
-- 📫 How to reach me skyneca11@gmail.com
+- 📫 How to reach me iqramslmpssy@gmail.com
 
 <!---
 Iqram-Salampessy/Iqram-Salampessy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
