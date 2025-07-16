@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iqram-Salampessy
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning CSS and JS Frameworks
+- 👀 I’m interested in BackEnd
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me iqramslmpssy@gmail.com
 
 <!---
