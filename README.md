@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iqram-Salampessy
 - 👀 I’m interested in BackEnd
-- 🌱 I’m currently learning JavaScript
+- 💖 I’m currently in love with JavaScript
 - 📫 How to reach me iqramslmpssy@gmail.com
 
 <!---
