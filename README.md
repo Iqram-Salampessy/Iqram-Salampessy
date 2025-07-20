@@ -3,8 +3,8 @@
 
 
 <p>🌱 I’m currently learning JavaScript</p>
-<p>🌱 💖 I’m currently in love with JavaScript</p>
-<p>🌱 📫 How to reach me iqramslmpssy@gmail.com</p>
+<p>💖 I’m currently in love with JavaScript</p>
+<p>📫 How to reach me iqramslmpssy@gmail.com</p>
 <p align="left">
 
 </p>
