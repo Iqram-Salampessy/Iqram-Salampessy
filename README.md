@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 
-<p>🌱 I’m currently learning JavaScript</p>
+<p>👀 I’m interested in backend</p>
 <p>💖 I’m currently in love with JavaScript</p>
 <p>📫 How to reach me iqramslmpssy@gmail.com</p>
 <p align="left">
