@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-an aspiring Backend Developer passionate about building clean, scalable, and efficient web applications.<br>Currently learning PHP (native & Laravel), MySQL, and backend fundamentals while working on real projects to strengthen my portfolio.<br>Open to collaboration, feedback, and internship opportunities to grow my skills<br>How to reach me iqramslmpssy@gmail.com
+an aspiring Backend Developer passionate about building clean, scalable, and efficient web applications.<br>Currently learning PHP (native & Laravel), MySQL, and backend fundamentals while working on real projects to strengthen my portfolio.<br>Open to collaboration, feedback, and internship opportunities to grow my skills<br><br>How to reach me:<br> iqramslmpssy@gmail.com<br>seneca.11 on Discord
 
 
 
